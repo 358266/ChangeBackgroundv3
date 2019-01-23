@@ -16,11 +16,11 @@ d = 24;
 This means the first color will appear between 00:00 and 12:00. The second color will appear between 12:00 and 17:00. The last color will appear between 17:00 and 24:00.
 ```
 ## DEMO
-http://i358266.iris.fhict.nl/Changebackgroundv2-master/index.html
+http://i358266.hera.fhict.nl/ChangeBackgroundv4-master/index.html
 
 ## Versioning
 
-Version 2.0
+Version 4.0
 
 ## Authors
 
